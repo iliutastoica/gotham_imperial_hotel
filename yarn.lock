@@ -687,9 +687,9 @@ grunt-eslint@^19.0.0:
     chalk "^1.0.0"
     eslint "^3.0.0"
 
-grunt-express-server@^0.5.3:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/grunt-express-server/-/grunt-express-server-0.5.3.tgz#8236cfd16e5b5a14393464fff82a0c57137b74b8"
+grunt-express-server@^0.5.4:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/grunt-express-server/-/grunt-express-server-0.5.4.tgz#8ce79c335c6cbb9ef50ee1dfaa61942028f43aeb"
 
 grunt-known-options@~1.1.0:
   version "1.1.0"
